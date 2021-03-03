@@ -1,0 +1,16 @@
+body {
+  font-family: Didot, serif;
+  color: rgb(0, 4, 58);
+  background-color: rgb(255, 253, 243);
+  border: 1px black solid;
+}
+a {
+  color: rgb(0, 4, 58);
+}
+h1 {
+  margin: 10px;
+}
+h3 {
+  text-decoration: underline;
+  margin: 10px;
+}
